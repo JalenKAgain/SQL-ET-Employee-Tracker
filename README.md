@@ -26,9 +26,9 @@ Here are the npm packages you will need.
 ## Usage
 In order to use the funtionality of this application you must have SQL Postgres and a Bash Terminal on your device. Here are some examples of what the app can provide.
 ![image_alt](https://github.com/JalenKAgain/Challenge-7/blob/027c967f49866140bdbca403a99dd78914f4918f/Screenshot%202025-01-12%20131415.png)
-![iamge_alt](https://1drv.ms/i/c/2593ad6a241c55d2/EYriW6BCiYlGqgL2BZwf3Y4BmkKj4X2HD_y5b3VAOQ-bqw?e=D1eX4v)
+![iamge alt](https://1drv.ms/i/c/2593ad6a241c55d2/EYriW6BCiYlGqgL2BZwf3Y4BmkKj4X2HD_y5b3VAOQ-bqw?e=D1eX4v)
 
-![iamge_alt](https://1drv.ms/i/c/2593ad6a241c55d2/EQS3bKXi2pZAhkN4_eKry8oB6-TquHoR-M1wx8UWs4e4IA?e=glPzjb)
+![iamge alt](https://1drv.ms/i/c/2593ad6a241c55d2/EQS3bKXi2pZAhkN4_eKry8oB6-TquHoR-M1wx8UWs4e4IA?e=glPzjb)
 
 ## Contributing
 Contributions are needed. Greatly appreciated. I'm always open to suggestions on how to make creations better.
