@@ -25,9 +25,11 @@ Here are the npm packages you will need.
 
 ## Usage
 In order to use the funtionality of this application you must have SQL Postgres and a Bash Terminal on your device. Here are some examples of what the app can provide.
-![image_alt](https://github.com/JalenKAgain/Challenge-7/blob/027c967f49866140bdbca403a99dd78914f4918f/Screenshot%202025-01-12%20131415.png)
 
-![image_alt](Screenshot 2025-02-03 131243.png)
+![image_alt](https://github.com/JalenKAgain/SQL-ET-Employee-Tracker/blob/c140b877d826b8fcf63b30d48f9e8db5fc6f04dc/Screenshot%202025-02-03%20131243.png)
+
+![image_alt](
+
 
 ## Contributing
 Contributions are needed. Greatly appreciated. I'm always open to suggestions on how to make creations better.
