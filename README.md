@@ -36,8 +36,11 @@ Contributions are needed. Greatly appreciated. I'm always open to suggestions on
 
 
 ## Link
-Click the link for walk-through video. https://drive.google.com/file/d/1JYdGsiufFStRt_UKLODTb2maBz_Ai6tm/view
-
+Click the link for walk-through video. 
+* https://drive.google.com/file/d/1JYdGsiufFStRt_UKLODTb2maBz_Ai6tm/view
+* https://drive.google.com/file/d/18a1d1gIPzzGiHGLnfLMSXTEwxL11XlIx/view
+                                        
 ## Questions
+
 If you have any questions feel free to reach me at the following:
 - Email: jacjalen16@gmail.com
